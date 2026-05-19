@@ -9,7 +9,7 @@ def read_json_file(filename):
         data = json.load(file)
     return data
 
-my_dict = read_json_file("sbir-search-results.json")
+my_dict = read_json_file("data/sbir-search-results.json")
 
 @app.route('/sbir/state/<state>')
 def sbir_state(state):
