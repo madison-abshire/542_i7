@@ -1,0 +1,59 @@
+attributes_OBJECTID_1,attributes_STATUS,attributes_NAME,attributes_STATION,attributes_SEGMENT,attributes_BOARD,attributes_STATION_DE,attributes_LINK_TYPE,attributes_REGIONAL_T,attributes_CONTRACT,attributes_EDITDATE,attributes_WEBSITE,attributes_EDIT_FLAG,attributes_New,geometry_x,geometry_y
+1,Existing / Under Construction,NE 145th Station,NE 145th,Lynnwood Link,Approved,Board Approved,0.0, ,0.0,, , ,0,-122.32523352866797,47.73610121219921
+2,Future,NE 130th Station,NE 130th,Lynnwood Link,Proposed,Proposed Future Station,0.0, ,0.0,, , ,0,-122.32381378287721,47.72404016422001
+3,Future,Shoreline Station,Shoreline,Lynnwood Link,Approved,Board Approved,0.0, ,0.0,, , ,0,-122.3228508029583,47.764081088344675
+4,Future,Mountlake Terrace Station,Mountlake Terrace,Lynnwood Link,Approved,Board Approved,0.0, ,0.0,, , ,0,-122.31479120073415,47.78500219627774
+5,Future,Lynnwood Station,Lynnwood,Lynnwood Link,Approved,Board Approved,0.0, ,0.0,, , ,0,-122.29475320406756,47.8156389468246
+6,Future,220th St SW Station,220th St SW,Lynnwood Link,Proposed,Proposed Future Station,0.0, ,0.0,, , ,0,-122.31631092475044,47.798462404896604
+7,Existing / Under Construction,Westlake Station,Westlake,C, , ,1.0,N,510.0,1158278400000.0,http://www.soundtransit.org/x1179.xml,A,0,-122.33671998639514,47.611572158852766
+8,Existing / Under Construction,University Street Station,University Street,C, , ,1.0,N,510.0,1158278400000.0,http://www.soundtransit.org/x1182.xml,A,0,-122.33601983177508,47.6078102407675
+9,Existing / Under Construction,Pioneer Square Station,Pioneer Square,C, , ,1.0,N,510.0,1158278400000.0,http://www.soundtransit.org/x1183.xml,A,0,-122.33121602175962,47.60256012458975
+10,Existing / Under Construction,International District Station,International District / Chinatown,C, , ,1.0,N,510.0,1158278400000.0,http://www.soundtransit.org/x1185.xml,A,0,-122.32799225693172,47.59835502393556
+11,Existing / Under Construction,Stadium Station,Stadium,C, , ,1.0,N,700.0,1158278400000.0,http://www.soundtransit.org/x1491.xml,A,0,-122.32717161827185,47.59110835182438
+12,Existing / Under Construction,SODO Station,SODO,C, , ,1.0,N,700.0,1158278400000.0,http://www.soundtransit.org/x1493.xml,A,0,-122.32738977401414,47.581074282053024
+13,Existing / Under Construction,Beacon Hill Station,Beacon Hill,C, , ,1.0,N,710.0,1158278400000.0,http://www.soundtransit.org/x1584.xml,A,0,-122.3115334712185,47.5793276863571
+14,Existing / Under Construction,Mount Baker Station,Mount Baker,D, , ,1.0,N,710.0,1158278400000.0,http://www.soundtransit.org/x1605.xml,A,0,-122.29767910437492,47.57655012628461
+15,Existing / Under Construction,Columbia City Station,Columbia City,D, , ,1.0,N,735.0,1158278400000.0,http://www.soundtransit.org/x1607.xml,A,0,-122.29269164873207,47.55973347843108
+16,Existing / Under Construction,Othello Station,Othello,D, , ,1.0,N,735.0,1158278400000.0,http://www.soundtransit.org/x1603.xml,A,0,-122.28156290135736,47.53798684802154
+17,Existing / Under Construction,Rainier Beach Station,Rainier Beach,D, , ,1.0,N,735.0,1158278400000.0,http://www.soundtransit.org/x1606.xml,A,0,-122.27939055075758,47.5223936042706
+18,Existing / Under Construction,Tukwila International Blvd Station,Tukwila International Blvd,E, , ,1.0,N,755.0,1158278400000.0,http://www.soundtransit.org/x1647.xml,A,0,-122.28799591182906,47.464030610886404
+19,Existing / Under Construction,Northgate Station,Northgate,A, , ,3.0,N,110.0,1158278400000.0,http://www.soundtransit.org/x1697.xml,A,0,-122.32829000170734,47.70302785683116
+20,Existing / Under Construction,Roosevelt Station,Roosevelt,A, , ,3.0,N,110.0,1158278400000.0,http://www.soundtransit.org/x1695.xml,A,0,-122.31597612807194,47.676594583605215
+21,Existing / Under Construction,U District Station,U District,B, , ,3.0,N,235.0,1342656000000.0,http://www.soundtransit.org/x1755.xml,A,0,-122.31413179545443,47.66030103873876
+22,Existing / Under Construction,Capitol Hill Station,Capitol Hill, , , ,6.0,N,235.0,1158278400000.0,http://www.soundtransit.org/x1756.xml,A,0,-122.32019465422613,47.61906014737477
+23,Existing / Under Construction,Commerce Street,Commerce Street,TAC, , ,2.0,N,0.0,1315958400000.0, ,A,0,-122.4393310067193,47.25310999345515
+24,Existing / Under Construction,Theater District Station,Theater District / South 9th Street,TAC, , ,2.0,Y,0.0,1158278400000.0,http://www.soundtransit.org/x1350.xml,A,0,-122.43996289641254,47.25619816209722
+25,Existing / Under Construction,Convention Center Station,Convention Center / South 15th Street,TAC, , ,2.0,Y,0.0,1158278400000.0,http://www.soundtransit.org/x1279.xml,A,0,-122.43855189693781,47.249495605900414
+26,Existing / Under Construction,Union Station,Union Station / South 19th Street,TAC, , ,2.0,Y,0.0,1158278400000.0,http://www.soundtransit.org/x1355.xml,A,0,-122.43662268594257,47.24486526956553
+27,Existing / Under Construction,Tacoma Dome Station,Tacoma Dome,TAC, , ,2.0,Y,0.0,1158278400000.0,http://www.soundtransit.org/x1349.xml,A,0,-122.42811811212758,47.23986838380973
+28,Existing / Under Construction,South 25th Street Station,South 25th Street,TAC, , ,2.0,Y,0.0,1158278400000.0,http://www.soundtransit.org/x1336.xml,A,0,-122.43420171158587,47.239081079447395
+29,Existing / Under Construction,University of Washington Station,University of Washington, , , ,6.0,N,235.0,1158278400000.0,http://www.soundtransit.org/x1758.xml,A,0,-122.30376301565185,47.64981508061488
+30,Existing / Under Construction,Airport / SeaTac Station,Airport / SeaTac,F, , ,4.0,N,770.0,1158278400000.0,http://www.soundtransit.org/x1173.xml,A,0,-122.29689831586587,47.44538116649423
+31,Existing / Under Construction,Angle Lake Station,Angle Lake,F, , ,5.0,N,780.0,1336694400000.0, ,A,0,-122.2977140232102,47.42270267145625
+32,Existing / Under Construction,Mercer Island Station,Mercer Island,East Link, , ,7.0,No,0.0,1457308800000.0, ,A,0,-122.23323167468227,47.588198217867756
+33,Existing / Under Construction,Judkins Park Station,Judkins Park,East Link, , ,7.0,No,0.0,1457308800000.0, ,A,0,-122.30450854417347,47.59029913862527
+34,Existing / Under Construction,South Bellevue Station,South Bellevue,East Link, , ,7.0,No,0.0,1457308800000.0, ,A,0,-122.19039580617623,47.58655600216471
+35,Existing / Under Construction,East Main Station,East Main,East Link, , ,7.0,No,0.0,1457308800000.0, ,A,0,-122.19114714965956,47.608187681477844
+36,Existing / Under Construction,Bellevue Downtown Station,Bellevue Downtown,East Link, , ,7.0,No,0.0,1457308800000.0, ,A,0,-122.1920843039925,47.615223151993426
+37,Existing / Under Construction,Wilburton Station,Wilburton,East Link, , ,7.0,No,0.0,1457308800000.0, ,A,0,-122.18376179376698,47.61796734670476
+38,Existing / Under Construction,Spring District/120th Station,Spring District/120th,East Link, , ,7.0,No,0.0,1457308800000.0, ,A,0,-122.17857308148508,47.62377318917746
+39,Existing / Under Construction,Bel-Red/130th Station,Bel-Red/130th,East Link, , ,7.0,No,0.0,1457308800000.0, ,A,0,-122.16564032406717,47.624448362013275
+40,Existing / Under Construction,Overlake Village Station,Overlake Village,East Link, , ,7.0,No,0.0,1457308800000.0, ,A,0,-122.13891960818465,47.6363096313489
+41,Existing / Under Construction,Redmond Technology Center Station,Redmond Technology Center,East Link, , ,7.0,No,0.0,1457308800000.0, ,A,0,-122.13362821567766,47.64484158288751
+42,Future,Downtown Redmond Station,Downtown Redmond,East Link, , ,7.0,No,0.0,1457308800000.0, ,A,0,-122.12479755707145,47.673178574204975
+43,Future,SE Redmond Station,SE Redmond,East Link, , ,7.0,No,0.0,1457308800000.0, ,A,0,-122.10977084207508,47.66729641596342
+44,Future,Graham St Station,Graham St,ST3, , ,0.0, ,0.0,, , ,1,-122.28547663492319,47.5458722772059
+45,Future,Boeing Access Rd,Boeing Access Rd,,,,,,,,,,0,-122.2849274074718,47.50713909442558
+46,Future,"Delrdige Station (DEL-5, DEL-6)",Delridge,West Seattle,,,,,,,,,1,-122.36399159172265,47.56912223746804
+47,Future,Avalon Station (WSJ-5),West Seattle Junction,West Seattle,,,,,,,,,1,-122.37558097190416,47.56515045291649
+48,Future,Denny Station (DT-2),Downtown,Ballard,,,,,,,,,1,-122.33797539439585,47.61940072731998
+49,Future,Stadium Station (CID-1a),CID,Ballard,,,,,,,,,1,-122.32597130010264,47.593811973811476
+50,Future,Midtown Station (DT-1),Downtown,Ballard,,,,,,,,,1,-122.32933537822714,47.60315795774877
+51,Future,Westlake Station (DT-1),Downtown,Ballard,,,,,,,,,1,-122.33594772433973,47.611076504941614
+52,Future,South Lake Union Station (DT-1),Downtown,Ballard,,,,,,,,,1,-122.34441893713942,47.622074540447755
+53,Future,Seattle Center Station (DT-1),Downtown,Ballard,,,,,,,,,1,-122.3580399544091,47.62331575384032
+54,Future,Smith Cove Station (SIB-1),South Interbay,Ballard,,,,,,,,,1,-122.37584626259238,47.63205088352747
+55,Future,IBB-1a Interbay Station,Interbay/Ballard,Ballard,,,,,,,,,1,-122.38012166157895,47.64846173276089
+56,Future,"Ballard Station (IBB-1a, IBB-1b)",Interbay/Ballard,Ballard,,,,,,,,,1,-122.37595381035482,47.66806538020215
+57,Future,"Alaska Junction Station (WSJ-3a, WSJ-5)",West Seattle Junction,West Seattle,,,,,,,,,1,-122.38413952314059,47.56104023389998
+58,Future,SODO Station (WS SODO-1a Staggered),SODO,West Seattle,,,,,,,,,1,-122.3273694145498,47.581692918718105
