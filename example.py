@@ -1,6 +1,7 @@
 from flask import Flask, jsonify
 import json
 import csv
+from get_data import GraphDBClient
 
 app = Flask(__name__)
 
@@ -53,6 +54,22 @@ def stations_status(status):
             name_list.append(station['attributes_NAME'])
 
     return jsonify(name_list)
+
+gdb = GraphDBClient()
+
+@app.route("/routes")
+def get_things():
+    rows = gdb.select("""
+       PREFIX gtfs: <http://vocab.gtfs.org/terms#>
+        SELECT ?routeName (COUNT(DISTINCT ?stop) AS ?stopCount) WHERE {{
+        ?route gtfs:route_short_name ?routeName ;
+               gtfs:trip ?trip .
+        ?trip  gtfs:stop_time ?st .
+        ?st    gtfs:stop ?stop .
+        }}
+        GROUP BY ?routeName
+    """)
+    return jsonify(rows)
 
 
  
